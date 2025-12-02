@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yozakura
+# 👋Yozakura
 
 🎯 Aspiring **Cybersecurity Specialist**  
 🔐 Interests: penetration testing, CTF challenges, cryptography, web application security  
