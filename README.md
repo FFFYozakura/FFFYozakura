@@ -1,8 +1,9 @@
 # 👋Yozakura
 
-🎯 Aspiring **Cybersecurity Specialist**  
-🔐 Interests: penetration testing, CTF challenges, cryptography, web application security  
-📚 Currently learning: Linux, Python, networking, reverse engineering basics  
+🎯 Aspiring Blue Team / SOC Analyst  
+🛡️ Focus: SIEM (Wazuh), intrusion detection, log analysis, threat hunting, incident response  
+📚 Currently learning: Linux internals, networking, Wazuh, Suricata, MITRE ATT&CK framework  
+🔥 Built a fully functional Wazuh homelab — detecting real brute-force attacks in seconds
 
 ---
 
